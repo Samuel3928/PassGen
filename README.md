@@ -10,7 +10,7 @@ Este Es Un Script En Python Para Generar contraseñas De Manera segura Desde La 
 apt-get update && apt-get upgrade
 apt-get install git
 apt-get install python3-pip
-git clone https://github.com/Samuel3928/PassGen.git
+git clone https://github.com/MR-X817/PassGen.git
 cd PassGen
 python3 Pass_Gen.py
 ```
