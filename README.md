@@ -1,5 +1,5 @@
 # PassGen
-## Author: https://github.com/Samuel3928
+## Author: https://github.com/MR-X817
 ## WebPage(Blogger): https://yourprograms382.blogspot.com/
 ## YouTube Channel: https://www.youtube.com/channel/UCq5Sqo__sNghQQaDJDWuQ8w
 
