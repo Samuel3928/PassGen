@@ -39,7 +39,7 @@ print("      ░▒ ░       ▒   ▒▒ ░░ ░▒  ░ ░░ ░▒  ░
 print("      ░░         ░   ▒   ░  ░  ░  ░  ░  ░  ░ ░   ░    ░      ░   ░ ░      ")
 print("                     ░  ░      ░        ░        ░    ░  ░         ░      "+RESET)
 print(RED+"                            PassGen(v.1.0)"+RESET) 
-print (MAGENTA+"         ------------- by @Samuel3928 ------------- "+RESET)
+print (MAGENTA+"         ------------- by ꧁༺MR-X༻꧂ ------------- "+RESET)
 print (GREEN+"                   Para Salir Presiona Ctrl+c"+RESET)
 print (" ")
 
